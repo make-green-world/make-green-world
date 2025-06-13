@@ -1,10 +1,8 @@
 ## Blockchain | AI | FullStack Developer
 
-- 🔭 I'm currently working on [project name]
-- 🌱 I'm currently learning [technology/language]
-- 👯 I'm looking to collaborate on [type of projects]
-- 🤔 I'm looking for help with [specific challenge]
-- 💬 Ask me about [your expertise]
-- 📫 How to reach me: [email or other contact]
-- 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [something interesting]
+- 🧠 Building AI-powered DApps at [Company/Project]
+- ⛓️ Contributing to [Blockchain Protocol/DAO]
+- 🌐 Developing full-stack web3 applications
+- 🔗 Writing about blockchain & AI convergence
+- 🔭 I'm currently working on wavewealth
+
