@@ -1,6 +1,4 @@
-# Blockchain | AI | FullStack
-
-## About Me
+## Blockchain | AI | FullStack Developer
 
 - 🔭 I'm currently working on [project name]
 - 🌱 I'm currently learning [technology/language]
